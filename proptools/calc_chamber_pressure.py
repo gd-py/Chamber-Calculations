@@ -1,4 +1,4 @@
-"""Illustrate the chamber pressure equilibrium of a solid rocket motor."""
+"""Illustrate the chamber pressure equilibrium of a solid rocket motor. """
 
 from matplotlib import pyplot as plt
 import numpy as np
